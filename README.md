@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mohy</h1>
-<h3 align="center">A passionate frontend developer from egypt</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
