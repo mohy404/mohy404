@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+mohy+%3C3;MOHY+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
+- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in ** Egypt City, Fayoum**
+- :sweat_smile: I'm a newbie in coding, know javaScript language. Now I'm focus on learning Web Development.
+- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/mohay5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mohay5" height="30" width="40" /></a>
