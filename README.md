@@ -7,9 +7,9 @@
 - :credit_card: My full name is **Mohamed Mohy Elden** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in ** Egypt City, Fayoum**
-- :sweat_smile: I'm a newbie in coding, know javaScript language. Now I'm focus on learning Web Development.
+- :sweat_smile: I'm a newbie in coding, know JavaScript language. Now I'm focusing on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- :sunglasses: My quote is ***"Whenever reality contradicts your expectations, change the plan, not the goal"*** 
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
   
   I can see you 👀
